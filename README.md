@@ -4,6 +4,8 @@
 
 This project aims to predict whether an individual's annual income exceeds $50,000 based on a set of demographic and other census data. The project involves a comprehensive Exploratory Data Analysis (EDA), data preprocessing, feature engineering, and the implementation of a RandomForest Classifier. To optimize the model's performance, feature selection based on importance was conducted, and hyperparameters were tuned using `RandomizedSearchCV`.
 
+[Kaggle Link](https://www.kaggle.com/code/emirhanhasrc/eda-randomforest-classifier-randomsearch)
+
 ## Dataset
 
 The dataset used is the "Adult" dataset from the UCI Machine Learning Repository, containing 14 features and one target variable (`income`).
